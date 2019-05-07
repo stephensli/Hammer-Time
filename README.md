@@ -7,3 +7,4 @@
 
 <h4 align="center">A program in Haskell for querying and updating a list of the 50 bestselling albums in the UK</h4>
 <h5 align="center">University Functional Programming Project 30%</h5>
+<h6 align="center">Resulting grade: 94/100</h6>
